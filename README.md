@@ -1,2 +1,3 @@
 # MyCloud
-For Cloud Course implementation
+
+this Repository is for Cloud Computing course (info 448 )
